@@ -1,5 +1,5 @@
 # Who are we ?
-We are EIB Alumni students. We are all passionned about programming and teaching it to the younger generations. We would like to start building and maintaining a creative community of young Burundian people, who are passionate and willing to teach their peers coding.
+We are EIB (Ecole Internationale de Bujumbura) Alumni students. We are all passionned about programming and teaching it to the younger generations. We would like to start building and maintaining a creative community of young Burundian people, who are passionate and willing to teach their peers coding.
 
 
 # What do we offer you this holiday ?
